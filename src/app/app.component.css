@@ -1,3 +1,16 @@
-p {
-  font-family: Lato;
+.loc-counter {
+ background-color: grey;
+ border-radius: 6px;
+ width: fit-content;
+}
+
+.loc-counter__btn {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.loc-counter__input {
+  padding: 6px 12px;
+  text-align: center;
+  max-width: 20px
 }
